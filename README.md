@@ -6,5 +6,3 @@ This is a website which lists three of my favorite recipes. Throughout the cours
 - Formatted recipe pages using attributes and anchors
 - Used git to commit and push files to the repository
 - Instituted best practice for formatting commit messages
-
-write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
