@@ -1,0 +1,78 @@
+* {
+  /* border: 1px red dotted; */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#index-header {
+  /* text-align: center; */
+  width: 900px;
+  margin: 16px auto; 
+}
+
+ /* Odin Recipes header block */
+.index-header {
+  float: left;
+  margin-top: 6px;
+}
+
+.links-list {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+  }
+
+.links-list a {
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+
+.links-list a:hover {
+  background-color: gainsboro;
+  border-radius: 10px;
+}
+
+.links-list li {
+  margin: 0 5px;
+  float: right;
+  background-color: gray;
+  border-radius: 10px;
+}
+
+.recipe-header {
+  float: left;
+  margin-top: 6px;
+  text-decoration: none;
+  outline: none;
+}
+  
+  /* .links-list a {
+    color: white;
+    text-decoration: none;
+    padding: 1em 2em;
+    display: inline-block;
+  } */
+  
+  /* .links-list a:hover {
+    background-color: #ffcc09;
+    color: #fff;
+  } */
+
+img {
+    float: left;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.description {
+    font-size: 75px;
+    /* color: white;
+    background-color: green; */
+}
+
+.ingr-st {
+    font-size: 50px;
+}
